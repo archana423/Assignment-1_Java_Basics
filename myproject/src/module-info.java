@@ -1,0 +1,3 @@
+module myproject {
+	exports myproject;
+}
